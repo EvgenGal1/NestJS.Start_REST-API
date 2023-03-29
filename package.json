@@ -1,7 +1,7 @@
 {
   "name": "nest-start_rest-api",
   "version": "0.0.1",
-  "description": "Nest.Start(Rest Api)",
+  "description": "NestJS.Start(REST API)",
   "author": "EvGen Gal <ZBst.1@yandex.ru>",
   "private": true,
   "license": "UNLICENSED",
